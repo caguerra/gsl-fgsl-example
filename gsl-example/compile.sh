@@ -1,0 +1,1 @@
+gcc pde.cpp `pkg-config --libs gsl`
